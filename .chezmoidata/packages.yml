@@ -1,0 +1,9 @@
+packages:
+  darwin: 
+    brews:
+      - 'zsh'
+    casks:
+      - 'google-chrome'
+      - 'spotify'
+      - 'maccy'
+      - 'htop'
